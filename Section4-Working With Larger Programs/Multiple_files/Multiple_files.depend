@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1691307599 source:c:\users\aatiz\onedrive\desktop\research\code\advanced c\section4-working with larger programs\multiple_files\main.c
+	<stdio.h>
+	<stdlib.h>
+	"other.h"
+
+1691307509 c:\users\aatiz\onedrive\desktop\research\code\advanced c\section4-working with larger programs\multiple_files\other.h
+
+1691307506 source:c:\users\aatiz\onedrive\desktop\research\code\advanced c\section4-working with larger programs\multiple_files\other.c
+	"other.h"
+

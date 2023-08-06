@@ -15,7 +15,8 @@
 - Go to VS Code>>View>>Command Palette.
 - Type and go to "Tasks: Configure Default Build Task"
 - Create tasks.json file from template >> Others.
-- In 'tasks.json' change label : `<your-label>`, and add `"args":["-g","-o","<helloworld>","<helloworld.c>"], "group":{"kind": "build", "isDefault": True} `
+- In 'tasks.json' change label : `<your-label>`, and add 
+```"args":[ "-g","-o","<helloworld>","<helloworld.c>"], "group":{"kind": "build", "isDefault": True} ```
 
 *The main source file should match in helloworld.c*
 
